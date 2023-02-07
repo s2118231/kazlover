@@ -17,11 +17,11 @@ h4 {
   width: 200px;
   height: 500px;
   margin: 0 auto;
-  background: url(/assets/img/bag.png) center no-repeat;
+  background: url(https://s2118231.github.io/kazlover/static/img/bag.png) center no-repeat;
   background-size: 80%;
 }
 #bag.burst {
-  background: url(/assets/img/bag-burst.png) center no-repeat;
+  background: url(https://s2118231.github.io/kazlover/static/img/bag-burst.png) center no-repeat;
   background-size: 80%;
 }
 
